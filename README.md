@@ -5,7 +5,9 @@ intervention est caractérisée par :
  - Une date
  - Le nom du plombier (dans une liste)
  - Type d’intervention (dans une liste)
+ 
 Développez une application mobile permettant de :
+
  - Consulter les interventions
  - Modifier les interventions (ajout / modification / suppression)
  - Recherche des interventions par date
