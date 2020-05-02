@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "interventionDate": "25/04/2020",
+    "nomPlombier":"Ahmed" ,
+    "typeIntervention" :"gaz de ville"
+  },
+  {
+    "id": 2,
+    "interventionDate":"26/04/2020" ,
+    "nomPlombier":"Omar" ,
+    "typeIntervention" :"Sanitaire"
+  },
+  {
+    "id": 3,
+    "interventionDate":"28/04/2020" ,
+    "nomPlombier":"Mahi",
+    "typeIntervention" : "installation chauffage"
+  }
+]
